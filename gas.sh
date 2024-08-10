@@ -42,6 +42,7 @@ clear
                     pkg install ffmpeg -y 
                     pkg install wget
                     pkg install imagemagick -y
+                    pkg install yarn
                     yarn
         fi
      done
