@@ -42,7 +42,6 @@ clear
                     pkg install ffmpeg -y 
                     pkg install wget
                     pkg install imagemagick -y
-                    yarn install
-                    npm start
+                    yarn
         fi
      done
