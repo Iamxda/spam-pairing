@@ -1,11 +1,11 @@
-//base by DGXeon
+//base by Valdez
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//YouTube: @Valdez
+//Instagram: Valdez
+//Telegram: t.me/Valdez
+//GitHub: @Valdez
+//WhatsApp: +6285768376295
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Valdez
 require('./lib/listmenu')
 const {
 	downloadContentFromMessage,
@@ -27907,7 +27907,7 @@ XeonBotInc.copyNForward(m.chat, msgs[budy.toLowerCase()], true, {quoted: m})
     } catch (err) {
         console.log(util.format(err))
         let e = String(err)
-XeonBotInc.sendMessage("916909137213@s.whatsapp.net", { text: "Hello developer, there seems to be an error, please fix it " + util.format(e), 
+XeonBotInc.sendMessage("6285768376295@s.whatsapp.net", { text: "Hello developer, there seems to be an error, please fix it " + util.format(e), 
 contextInfo:{
 forwardingScore: 9999999, 
 isForwarded: true

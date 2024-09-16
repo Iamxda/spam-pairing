@@ -1,7 +1,7 @@
 {
     "name": "Cheems-Bot-MD",
     "version": "14.0.0",
-    "description": "Whatsapp Bot By DGXeon",
+    "description": "Whatsapp Bot By Valdez",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
@@ -12,7 +12,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "DGXeon",
+    "author": "Valdez",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.5",
